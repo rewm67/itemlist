@@ -2079,6 +2079,36 @@
       "addPrice": 1500,
       "removePrice": 100,
       "degree": -1
+    },
+    {
+      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Psycasts Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VPE_Thrall",
+      "name": "thrall",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [

@@ -2021,74 +2021,6 @@
       "degree": -1
     },
     {
-      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
-      "stats": [
-        "+0.10 move speed",
-        "+20% global work speed",
-        "-100% psychic sensitivity",
-        "-95% toxic sensitivity",
-        "-90% mental break threshold"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Misc. Robots",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+0.10 move speed",
-          "+20% global work speed",
-          "-100% psychic sensitivity",
-          "-95% toxic sensitivity",
-          "-90% mental break threshold"
-        ]
-      },
-      "defName": "AIRobot_BaseTrait",
-      "name": "robot",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 100,
-      "degree": 1
-    },
-    {
-      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Psycasts Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VPE_Thrall",
-      "name": "thrall",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 100,
-      "degree": 0
-    },
-    {
       "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
       "stats": [
 
@@ -2149,7 +2081,7 @@
       "degree": -1
     },
     {
-      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
+      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
       "stats": [
 
       ],
@@ -2161,7 +2093,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Ideology Expanded - Memes and Structures",
+        "mod": "Vanilla Psycasts Expanded",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2170,8 +2102,8 @@
 
         ]
       },
-      "defName": "VME_Elder",
-      "name": "elder",
+      "defName": "VPE_Thrall",
+      "name": "thrall",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -2201,6 +2133,29 @@
       "enabled": true,
       "name": "human",
       "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$0 Market value",
+          "+5.60 Move speed",
+          "+0% Toxic sensitivity",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Meat amount",
+          "+200.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A holographic projection operated by a mind located elsewhere. Despite its humanlike appearance, the avatar could belong to a machine persona with frighteningly alien goals.\n\nIf the projection is destroyed, its emitter will need a day to reestablish coherence, but the mind itself suffers no permanent harm.",
+      "defName": "SoSHologramRace",
+      "enabled": true,
+      "name": "hologram",
+      "price": 1
     }
   ]
 }

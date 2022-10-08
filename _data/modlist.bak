@@ -1,7 +1,19 @@
 ﻿[
   {
+    "author": "Neceros",
+    "name": "SRTS Expanded Realism Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Nitrodev",
     "name": "Absolutely No Roof",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kentington and Thain",
+    "name": "Save Our Ship 2",
     "steamId": null,
     "version": null
   },
@@ -36,30 +48,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Kikohi",
-    "name": "Vanilla Expanded - Ideology Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Kikohi",
-    "name": "Vanilla Expanded - Royalty Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Anon",
-    "name": "Clean Vanilla Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "8Z",
-    "name": "Cook Carefully",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "Defensive Positions",
     "steamId": null,
@@ -80,12 +68,6 @@
   {
     "author": "Aelanna",
     "name": "Fists Aren't Made of Steel",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Dyrewulfe",
-    "name": "Food Poisoning Stack Fix (Continued)",
     "steamId": null,
     "version": null
   },
@@ -132,12 +114,6 @@
     "version": null
   },
   {
-    "author": "Haplo",
-    "name": "Misc. Robots",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Antaios",
     "name": "Mod Medicine Patch",
     "steamId": null,
@@ -146,18 +122,6 @@
   {
     "author": "SineSwiper",
     "name": "More Drug Stats",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Taranchuk",
-    "name": "Vanilla Books Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "purpleyam",
-    "name": "More Ideological Words",
     "steamId": null,
     "version": null
   },
@@ -350,12 +314,6 @@
   {
     "author": "FrozenSnowFox",
     "name": "[FSF] Filth Vanishes With Rain And Time",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Growable Grass",
     "steamId": null,
     "version": null
   },

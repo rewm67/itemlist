@@ -3072,6 +3072,156 @@
 		"category": "Meat",
 		"defname": "Meat_Alphabeaver"
 	},
+	{
+		"abr": "advancedholodeck",
+		"price": 3275,
+		"category": "Recreation",
+		"defname": "Holodeck_Standard"
+	},
+	{
+		"abr": "afterlifecasket",
+		"price": 3575,
+		"category": "Buildings",
+		"defname": "Ship_AvatarCasket"
+	},
+	{
+		"abr": "antigraintorpedo",
+		"price": 2500,
+		"category": "Torpedoes",
+		"defname": "ShipTorpedo_Antimatter"
+	},
+	{
+		"abr": "archocat",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archocat"
+	},
+	{
+		"abr": "archoffalo",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archoffalo"
+	},
+	{
+		"abr": "archojerboa",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archojerboa"
+	},
+	{
+		"abr": "archolifepod",
+		"price": 1667,
+		"category": "Items",
+		"defname": "ArcholifePod"
+	},
+	{
+		"abr": "archolope",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archolope"
+	},
+	{
+		"abr": "archomutt",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archomutt"
+	},
+	{
+		"abr": "archopanda",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archopanda"
+	},
+	{
+		"abr": "archospider",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archospider"
+	},
+	{
+		"abr": "archostrich",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archostrich"
+	},
+	{
+		"abr": "archostrichegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "EggArchostrichFertilized"
+	},
+	{
+		"abr": "archostrichegg(unfert.)",
+		"price": 38,
+		"category": "Eggs (unfert.)",
+		"defname": "EggArchostrichUnfertilized"
+	},
+	{
+		"abr": "archotechear",
+		"price": 2000,
+		"category": "Archotech",
+		"defname": "SoSArchotechEar"
+	},
+	{
+		"abr": "archotechheart",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechHeart"
+	},
+	{
+		"abr": "archotechjaw",
+		"price": 3667,
+		"category": "Archotech",
+		"defname": "SoSArchotechJaw"
+	},
+	{
+		"abr": "archotechkidney",
+		"price": 3667,
+		"category": "Archotech",
+		"defname": "SoSArchotechKidney"
+	},
+	{
+		"abr": "archotechliver",
+		"price": 3667,
+		"category": "Archotech",
+		"defname": "SoSArchotechLiver"
+	},
+	{
+		"abr": "archotechlung",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechLung"
+	},
+	{
+		"abr": "archotechnose",
+		"price": 3667,
+		"category": "Archotech",
+		"defname": "SoSArchotechNose"
+	},
+	{
+		"abr": "archotechpillaralpha",
+		"price": 16783,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarA"
+	},
+	{
+		"abr": "archotechpillarbeta",
+		"price": 16783,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarB"
+	},
+	{
+		"abr": "archotechpillardelta",
+		"price": 16783,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarD"
+	},
+	{
+		"abr": "archotechpillargamma",
+		"price": 16783,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarC"
+	},
 	],
-	"total": 838
+	"total": 863
 }
