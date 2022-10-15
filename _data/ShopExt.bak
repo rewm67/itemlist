@@ -2019,6 +2019,1192 @@
       "addPrice": 1500,
       "removePrice": 100,
       "degree": -1
+    },
+    {
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
+      "stats": [
+        "+0.10 move speed",
+        "+20% global work speed",
+        "-100% psychic sensitivity",
+        "-95% toxic sensitivity",
+        "-90% mental break threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Misc. Robots",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+0.10 move speed",
+          "+20% global work speed",
+          "-100% psychic sensitivity",
+          "-95% toxic sensitivity",
+          "-90% mental break threshold"
+        ]
+      },
+      "defName": "AIRobot_BaseTrait",
+      "name": "robot",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has a rebellious attitude, causing them to randomly decide to do a different task on occasion.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Outer Rim Galaxies",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "O21_OR_Rebellious",
+      "name": "rebellious",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has their wires crossed in just the right way to make it so they snap easier.",
+      "stats": [
+        "+10% mental break threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Outer Rim Galaxies",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+10% mental break threshold"
+        ]
+      },
+      "defName": "O21_OR_Crosswired",
+      "name": "crosswired",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy doesn't learn as well as other droids of their model, they also have problems socially due to this.",
+      "stats": [
+        "-15.00% social impact",
+        "-75% global learning factor"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Outer Rim Galaxies",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-15.00% social impact",
+          "-75% global learning factor"
+        ]
+      },
+      "defName": "O21_OR_Rustbrained",
+      "name": "rustbrained",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a much better threshold for mental breaks, but sometimes go on an insulting spree for no reason and is more likely to fight with others.",
+      "stats": [
+        "-15% mental break threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Outer Rim Galaxies",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-15% mental break threshold"
+        ]
+      },
+      "defName": "O21_OR_Choppy",
+      "name": "choppy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has developed a condition that has been documented rarely in droids where they become tired of being around others, to the point they don't really feel strongly about anything, it makes them break a lot less easily but they also tend to wander about all sad occasionally as a side effect.",
+      "stats": [
+        "+20% mental break threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Outer Rim Galaxies",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+20% mental break threshold"
+        ]
+      },
+      "defName": "O21_OR_AP5Syndrome",
+      "name": "ap-5syndrome",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has some screws loose and as a result they'll on a rare occasion lose some ability with a random skill.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Outer Rim Galaxies",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "O21_OR_LooseScrews",
+      "name": "loosescrews",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has exceptional reaction times, making them slightly faster than other droids of their model.",
+      "stats": [
+        "+0.40 move speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Outer Rim Galaxies",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+0.40 move speed"
+        ]
+      },
+      "defName": "O21_OR_Speedy",
+      "name": "speedy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has learned to control their emotional programming to the extent usually only a restraint bolt provides, making them incapable of mental breaks.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Outer Rim Galaxies",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "O21_OR_SelfRestrained",
+      "name": "self-restrained",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a glitch that causes them to twitch involuntarily, for most tasks this isn't much of an issue, but if he uses a ranged weapon their accuracy will be lowered.",
+      "stats": [
+        "-5.0 shooting accuracy"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Outer Rim Galaxies",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-5.0 shooting accuracy"
+        ]
+      },
+      "defName": "O21_OR_Twitchy",
+      "name": "twitchy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is particulalry chatty, if they are capable of social they'll be rather good at it, otherwise it's just more beeps and whirrs...",
+      "stats": [
+        "+15.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Outer Rim Galaxies",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+15.00% social impact"
+        ]
+      },
+      "defName": "O21_OR_Twitterer",
+      "name": "twitterer",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Astromechs do not understand emotions on a logical level.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - Astromech Droids (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "AstromechAI",
+      "name": "astromechai",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Protocol Droids do not understand emotions on a logical level.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - Protocol Droids (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "ProtocolAI",
+      "name": "protocoldroidai",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Support Droids do not understand emotions on a logical level.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - Support Droids (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "SupportAI",
+      "name": "supportdroidai",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has the ability to feel the force that surrounds us.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_ForceSensitive",
+      "name": "forcesensitive",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has begun to control the force, but requires further training and guidance.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_ForceSensitive",
+      "name": "forceapprentice",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy Has begun the journey to becoming a Jedi Knight.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_JediTrait",
+      "name": "jedi",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has attained the rank of Knight of the Jedi Order.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_JediTrait",
+      "name": "jediknight",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is among the most respected of the Jedi Order, a true Master.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_JediTrait",
+      "name": "jedimaster",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3
+    },
+    {
+      "description": "Timmy is ranked among the elite Jedi, those who are fit to serve on the Council.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_JediTrait",
+      "name": "jediconsular",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 4
+    },
+    {
+      "description": "Timmy Has begun the journey to the Dark side of the force.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sith",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is devoted to the dark side, spreading terror and flaring passions in their wake.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sithinquisitor",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is among the most feared in the galaxy, the Dark Lords of the Sith.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sithlord",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3
+    },
+    {
+      "description": "Timmy is attuned to the dark side of the force, able to tap near-limitless power.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sithmaster",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 4
+    },
+    {
+      "description": "Timmy is exploring the balance of the Force.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "graypadawan",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is devoted to maintaining the balance of the Force.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "grayjedi",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is a master Jedi, devoted to the 'living Force'.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "graymaster",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3
+    },
+    {
+      "description": "Timmy is attuned to the Living Force. he sees HIMself as an extension of it's will.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "graysage",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 4
+    },
+    {
+      "description": "Driod do not understand emotions on a logical level.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "StarWars - 4-LOM Droid",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "SW_4LOM_SimpleAI",
+      "name": "adv.ai",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Driod do not understand emotions on a logical level.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "StarWars - IG-88 Droid",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "SW_IG88_SimpleAI",
+      "name": "simpleai",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -2043,6 +3229,1977 @@
       "enabled": true,
       "name": "human",
       "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$0 Market value",
+          "+5.60 Move speed",
+          "+0% Toxic sensitivity",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Meat amount",
+          "+200.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A holographic projection operated by a mind located elsewhere. Despite its humanlike appearance, the avatar could belong to a machine persona with frighteningly alien goals.\n\nIf the projection is destroyed, its emitter will need a day to reestablish coherence, but the mind itself suffers no permanent harm.",
+      "defName": "SoSHologramRace",
+      "enabled": true,
+      "name": "hologram",
+      "price": 1
+    },
+    {
+      "data": {
+        "stats": [
+          "+20.00 Mass",
+          "+0% Flammability",
+          "+$1400 Market value",
+          "+50% General labor speed",
+          "+100% Global learning factor",
+          "+0.9 Melee dodge chance",
+          "+4.70 Move speed",
+          "+25 Carrying capacity",
+          "+0% Toxic sensitivity",
+          "+40.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "-200.0C Minimum comfortable temperature",
+          "+200.0C Maximum comfortable temperature",
+          "+99% Pain shock threshold",
+          "+0% Hunger rate multiplier",
+          "+1000% Immunity gain speed",
+          "+0% Eating speed",
+          "+0% Global work speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Research speed",
+          "+0% Plant work speed",
+          "+0% Psychic sensitivity",
+          "+0.00% Train animal chance",
+          "+0.00% Tame animal chance",
+          "+0% Smoothing speed",
+          "+0% Animal gather speed",
+          "+0% Mining speed",
+          "+0.00% Negotiation ability",
+          "+0.00% Trade price improvement",
+          "+0.00% Social impact",
+          "+0% Hunting stealth",
+          "+0.0 Cooking speed",
+          "+0% Butchery speed",
+          "+0% Butchery efficiency",
+          "+0% Drug cooking speed",
+          "+0% Medical tend quality",
+          "+0% Medical surgery success chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The BB-series astromech droid was a model of astromech droid manufactured by Industrial Automaton. The R4 astromechs droid had an internal orbiculate motor that allowed the spherical body to roll across a variety of terrain.",
+      "defName": "BB_Astromech",
+      "enabled": true,
+      "name": "BB Astromech Droid",
+      "price": 2333
+    },
+    {
+      "data": {
+        "stats": [
+          "+20.00 Mass",
+          "+0% Flammability",
+          "+$1400 Market value",
+          "+45% General labor speed",
+          "+100% Global learning factor",
+          "+0.9 Melee dodge chance",
+          "+4.20 Move speed",
+          "+25 Carrying capacity",
+          "+0% Toxic sensitivity",
+          "+40.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "-200.0C Minimum comfortable temperature",
+          "+200.0C Maximum comfortable temperature",
+          "+99% Pain shock threshold",
+          "+0% Hunger rate multiplier",
+          "+1000% Immunity gain speed",
+          "+0% Eating speed",
+          "+0% Global work speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Research speed",
+          "+0% Plant work speed",
+          "+0% Psychic sensitivity",
+          "+0.00% Train animal chance",
+          "+0.00% Tame animal chance",
+          "+0% Smoothing speed",
+          "+0% Animal gather speed",
+          "+0% Mining speed",
+          "+0.00% Negotiation ability",
+          "+0.00% Trade price improvement",
+          "+0.00% Social impact",
+          "+0% Hunting stealth",
+          "+0.0 Cooking speed",
+          "+0% Butchery speed",
+          "+0% Butchery efficiency",
+          "+0% Drug cooking speed",
+          "+0% Medical tend quality",
+          "+0% Medical surgery success chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The C1-series astromech droid, was a model of C-series astromech droid manufactured by Industrial Automaton.",
+      "defName": "C1_Astromech",
+      "enabled": true,
+      "name": "C1 Astromech Droid",
+      "price": 2333
+    },
+    {
+      "data": {
+        "stats": [
+          "+20.00 Mass",
+          "+0% Flammability",
+          "+$1500 Market value",
+          "+50% General labor speed",
+          "+100% Global learning factor",
+          "+0.9 Melee dodge chance",
+          "+4.20 Move speed",
+          "+25 Carrying capacity",
+          "+0% Toxic sensitivity",
+          "+40.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "-200.0C Minimum comfortable temperature",
+          "+200.0C Maximum comfortable temperature",
+          "+99% Pain shock threshold",
+          "+0% Hunger rate multiplier",
+          "+1000% Immunity gain speed",
+          "+0% Eating speed",
+          "+0% Global work speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Research speed",
+          "+0% Plant work speed",
+          "+0% Psychic sensitivity",
+          "+0.00% Train animal chance",
+          "+0.00% Tame animal chance",
+          "+0% Smoothing speed",
+          "+0% Animal gather speed",
+          "+0% Mining speed",
+          "+0.00% Negotiation ability",
+          "+0.00% Trade price improvement",
+          "+0.00% Social impact",
+          "+0% Hunting stealth",
+          "+0.0 Cooking speed",
+          "+0% Butchery speed",
+          "+0% Butchery efficiency",
+          "+0% Drug cooking speed",
+          "+0% Medical tend quality",
+          "+0% Medical surgery success chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "R2 series astromech droids, also known as R2 units, were a very popular series of astromech droids produced by Industrial Automaton.",
+      "defName": "R2_Astromech",
+      "enabled": true,
+      "name": "R2 Astromech Droid",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+20.00 Mass",
+          "+0% Flammability",
+          "+$2500 Market value",
+          "+35% General labor speed",
+          "+100% Global learning factor",
+          "+0.9 Melee dodge chance",
+          "+50% Research speed",
+          "+4.20 Move speed",
+          "+25 Carrying capacity",
+          "+0% Toxic sensitivity",
+          "+40.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "-200.0C Minimum comfortable temperature",
+          "+200.0C Maximum comfortable temperature",
+          "+99% Pain shock threshold",
+          "+0% Hunger rate multiplier",
+          "+1000% Immunity gain speed",
+          "+0% Eating speed",
+          "+0% Global work speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Plant work speed",
+          "+0% Psychic sensitivity",
+          "+0.00% Train animal chance",
+          "+0.00% Tame animal chance",
+          "+0% Smoothing speed",
+          "+0% Animal gather speed",
+          "+0% Mining speed",
+          "+0.00% Negotiation ability",
+          "+0.00% Trade price improvement",
+          "+0.00% Social impact",
+          "+0% Hunting stealth",
+          "+0.0 Cooking speed",
+          "+0% Butchery speed",
+          "+0% Butchery efficiency",
+          "+0% Drug cooking speed",
+          "+0% Medical tend quality",
+          "+0% Medical surgery success chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The R3-series astromech droid was part of the line of R-series astromech droids manufactured by Industrial Automaton. The R3's computer was capable of housing an immense amount of data",
+      "defName": "R3_Astromech",
+      "enabled": true,
+      "name": "R3 Astromech Droid",
+      "price": 4167
+    },
+    {
+      "data": {
+        "stats": [
+          "+20.00 Mass",
+          "+0% Flammability",
+          "+$1000 Market value",
+          "+50% General labor speed",
+          "+100% Global learning factor",
+          "+0.8 Melee dodge chance",
+          "+25.0% Armor - Blunt",
+          "+45.0% Armor - Sharp",
+          "+200.0% Armor - Heat",
+          "+35 Carrying capacity",
+          "+4.20 Move speed",
+          "+0% Toxic sensitivity",
+          "-200.0C Minimum comfortable temperature",
+          "+200.0C Maximum comfortable temperature",
+          "+99% Pain shock threshold",
+          "+0% Hunger rate multiplier",
+          "+1000% Immunity gain speed",
+          "+0% Eating speed",
+          "+0% Global work speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Research speed",
+          "+0% Plant work speed",
+          "+30% Psychic sensitivity",
+          "+0.00% Train animal chance",
+          "+0.00% Tame animal chance",
+          "+0% Smoothing speed",
+          "+0% Animal gather speed",
+          "+0% Mining speed",
+          "+0.00% Negotiation ability",
+          "+0.00% Trade price improvement",
+          "+0.00% Social impact",
+          "+0% Hunting stealth",
+          "+0.0 Cooking speed",
+          "+0% Butchery speed",
+          "+0% Butchery efficiency",
+          "+0% Drug cooking speed",
+          "+0% Medical tend quality",
+          "+0% Medical surgery success chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "R4 agromechs were a series of astromech droids manufactured by Industrial Automaton. The R4 agromechs droid was designed for life outside the pristine hangar bay. It was simpler, tougher, and cheaper than previous R3-series models.",
+      "defName": "R4_Astromech",
+      "enabled": true,
+      "name": "R4 Agromech Droid",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+20.00 Mass",
+          "+0% Flammability",
+          "+$750 Market value",
+          "+50% General labor speed",
+          "+50% Global learning factor",
+          "+0.5 Melee dodge chance",
+          "+3.20 Move speed",
+          "+25 Carrying capacity",
+          "+0% Toxic sensitivity",
+          "+20.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "-200.0C Minimum comfortable temperature",
+          "+200.0C Maximum comfortable temperature",
+          "+99% Pain shock threshold",
+          "+0% Hunger rate multiplier",
+          "+1000% Immunity gain speed",
+          "+0% Eating speed",
+          "+0% Global work speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Research speed",
+          "+0% Plant work speed",
+          "+75% Psychic sensitivity",
+          "+0.00% Train animal chance",
+          "+0.00% Tame animal chance",
+          "+0% Smoothing speed",
+          "+0% Animal gather speed",
+          "+0% Mining speed",
+          "+0.00% Negotiation ability",
+          "+0.00% Trade price improvement",
+          "+0.00% Social impact",
+          "+0% Hunting stealth",
+          "+0.0 Cooking speed",
+          "+0% Butchery speed",
+          "+0% Butchery efficiency",
+          "+0% Drug cooking speed",
+          "+0% Medical tend quality",
+          "+0% Medical surgery success chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The R5 series astromech droid was a model of R-series astromech droid. Cut-price versions of superior R2 units, they were low cost, but plagued with malfunctions, prone to defects and bad attitudes.",
+      "defName": "R5_Astromech",
+      "enabled": true,
+      "name": "R5 Astromech Droid",
+      "price": 1250
+    },
+    {
+      "data": {
+        "stats": [
+          "+20.00 Mass",
+          "+0% Flammability",
+          "+$1700 Market value",
+          "+50% General labor speed",
+          "+100% Global learning factor",
+          "+0.9 Melee dodge chance",
+          "+4.20 Move speed",
+          "+25 Carrying capacity",
+          "+0% Toxic sensitivity",
+          "+40.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "-200.0C Minimum comfortable temperature",
+          "+200.0C Maximum comfortable temperature",
+          "+99% Pain shock threshold",
+          "+0% Hunger rate multiplier",
+          "+1000% Immunity gain speed",
+          "+0% Eating speed",
+          "+0% Global work speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Research speed",
+          "+0% Plant work speed",
+          "+0% Psychic sensitivity",
+          "+0.00% Train animal chance",
+          "+0.00% Tame animal chance",
+          "+0% Smoothing speed",
+          "+0% Animal gather speed",
+          "+0% Mining speed",
+          "+0.00% Negotiation ability",
+          "+0.00% Trade price improvement",
+          "+0.00% Social impact",
+          "+0% Hunting stealth",
+          "+0.0 Cooking speed",
+          "+0% Butchery speed",
+          "+0% Butchery efficiency",
+          "+0% Drug cooking speed",
+          "+0% Medical tend quality",
+          "+0% Medical surgery success chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "R6 astromechs were a series of astromech droids.",
+      "defName": "R6_Astromech",
+      "enabled": true,
+      "name": "R6 Astromech Droid",
+      "price": 2833
+    },
+    {
+      "data": {
+        "stats": [
+          "+77.66 Mass",
+          "+0% Flammability",
+          "+$3000 Market value",
+          "+120.00% Negotiation ability",
+          "+120.00% Trade price improvement",
+          "+120.00% Social impact",
+          "+30% General labor speed",
+          "+0.8 Melee dodge chance",
+          "+0% Toxic sensitivity",
+          "+2.00 Move speed",
+          "+1000% Immunity gain speed",
+          "+40.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "-200.0C Minimum comfortable temperature",
+          "+200.0C Maximum comfortable temperature",
+          "+99% Pain shock threshold",
+          "+0% Hunger rate multiplier",
+          "+40 Carrying capacity",
+          "+0% Eating speed",
+          "+0% Global work speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Research speed",
+          "+0% Plant work speed",
+          "+0% Global learning factor",
+          "+0% Hunting stealth",
+          "+0.0 Cooking speed",
+          "+0% Butchery speed",
+          "+0% Butchery efficiency",
+          "+0% Drug cooking speed",
+          "+0% Medical tend quality",
+          "+0% Medical surgery success chance",
+          "+0% Psychic sensitivity",
+          "+0.00% Train animal chance",
+          "+0.00% Tame animal chance",
+          "+0% Smoothing speed",
+          "+0% Animal gather speed",
+          "+0% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The 3PO-series protocol droid was a Human-cyborg relations protocol droid produced by Cybot Galactica.",
+      "defName": "3PO_Protocol",
+      "enabled": true,
+      "name": "3PO Protocol Droid",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+77.66 Mass",
+          "+0% Flammability",
+          "+$3000 Market value",
+          "+120.00% Negotiation ability",
+          "+120.00% Trade price improvement",
+          "+120.00% Social impact",
+          "+30% General labor speed",
+          "+0.8 Melee dodge chance",
+          "+0% Toxic sensitivity",
+          "+2.00 Move speed",
+          "+1000% Immunity gain speed",
+          "+40.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "-200.0C Minimum comfortable temperature",
+          "+200.0C Maximum comfortable temperature",
+          "+99% Pain shock threshold",
+          "+0% Hunger rate multiplier",
+          "+40 Carrying capacity",
+          "+0% Eating speed",
+          "+0% Global work speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Research speed",
+          "+0% Plant work speed",
+          "+0% Global learning factor",
+          "+0% Hunting stealth",
+          "+0.0 Cooking speed",
+          "+0% Butchery speed",
+          "+0% Butchery efficiency",
+          "+0% Drug cooking speed",
+          "+0% Medical tend quality",
+          "+0% Medical surgery success chance",
+          "+0% Psychic sensitivity",
+          "+0.00% Train animal chance",
+          "+0.00% Tame animal chance",
+          "+0% Smoothing speed",
+          "+0% Animal gather speed",
+          "+0% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The TC-series protocol droid was a Human-cyborg relations protocol droid produced by Cybot Galactica.",
+      "defName": "TC_Protocol",
+      "enabled": true,
+      "name": "TC Protocol Droid",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+77.66 Mass",
+          "+0% Flammability",
+          "+$4300 Market value",
+          "+100% Medical tend quality",
+          "+160% Medical surgery success chance",
+          "+100% General labor speed",
+          "+100% Global learning factor",
+          "+0.8 Melee dodge chance",
+          "+0% Toxic sensitivity",
+          "+2.00 Move speed",
+          "+1000% Immunity gain speed",
+          "+40.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "-200.0C Minimum comfortable temperature",
+          "+200.0C Maximum comfortable temperature",
+          "+99% Pain shock threshold",
+          "+0% Hunger rate multiplier",
+          "+40 Carrying capacity",
+          "+0% Eating speed",
+          "+0% Global work speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Research speed",
+          "+0% Plant work speed",
+          "+0% Hunting stealth",
+          "+0.00% Negotiation ability",
+          "+0.00% Trade price improvement",
+          "+0.00% Social impact",
+          "+0.0 Cooking speed",
+          "+0% Butchery speed",
+          "+0% Butchery efficiency",
+          "+0% Drug cooking speed",
+          "+0% Psychic sensitivity",
+          "+0.00% Train animal chance",
+          "+0.00% Tame animal chance",
+          "+0% Smoothing speed",
+          "+0% Animal gather speed",
+          "+0% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The 2-1B-series surgical droid were advanced medical droids produced by Industrial Automaton.",
+      "defName": "21B_Medical",
+      "enabled": true,
+      "name": "2-1B Surgical Droid",
+      "price": 7167
+    },
+    {
+      "data": {
+        "stats": [
+          "+77.66 Mass",
+          "+0% Flammability",
+          "+$3500 Market value",
+          "+140% Medical tend quality",
+          "+110% Medical surgery success chance",
+          "+100% General labor speed",
+          "+0.8 Melee dodge chance",
+          "+0% Toxic sensitivity",
+          "+0.50 Move speed",
+          "+1000% Immunity gain speed",
+          "+40.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "-200.0C Minimum comfortable temperature",
+          "+200.0C Maximum comfortable temperature",
+          "+99% Pain shock threshold",
+          "+0% Hunger rate multiplier",
+          "+25 Carrying capacity",
+          "+0% Eating speed",
+          "+0% Global work speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Research speed",
+          "+0% Plant work speed",
+          "+0% Global learning factor",
+          "+0% Hunting stealth",
+          "+0.00% Negotiation ability",
+          "+0.00% Trade price improvement",
+          "+0.00% Social impact",
+          "+0.0 Cooking speed",
+          "+0% Butchery speed",
+          "+0% Butchery efficiency",
+          "+0% Drug cooking speed",
+          "+0% Psychic sensitivity",
+          "+0.00% Train animal chance",
+          "+0.00% Tame animal chance",
+          "+0% Smoothing speed",
+          "+0% Animal gather speed",
+          "+0% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The FX-7 medical assistant droids were often immobile, cylindrical droids with numerous \"arms\" that assisted patients during surgery or other medical procedures.",
+      "defName": "FX7_MedicalAssistant",
+      "enabled": true,
+      "name": "FX-7 Medical Assistant Droid",
+      "price": 5833
+    },
+    {
+      "data": {
+        "stats": [
+          "+30.00 Mass",
+          "+0% Flammability",
+          "+$100 Market value",
+          "+0% Medical tend quality",
+          "+0% Medical surgery success chance",
+          "+0% General labor speed",
+          "+0.8 Melee dodge chance",
+          "+0% Toxic sensitivity",
+          "+2.00 Move speed",
+          "+1000% Immunity gain speed",
+          "+40.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "-200.0C Minimum comfortable temperature",
+          "+200.0C Maximum comfortable temperature",
+          "+99% Pain shock threshold",
+          "+0% Hunger rate multiplier",
+          "+0 Carrying capacity",
+          "+0% Eating speed",
+          "+0% Global work speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Research speed",
+          "+0% Plant work speed",
+          "+0% Global learning factor",
+          "+0% Hunting stealth",
+          "+0.00% Negotiation ability",
+          "+0.00% Trade price improvement",
+          "+0.00% Social impact",
+          "+0.0 Cooking speed",
+          "+0% Butchery speed",
+          "+0% Butchery efficiency",
+          "+0% Drug cooking speed",
+          "+0% Psychic sensitivity",
+          "+0.00% Train animal chance",
+          "+0.00% Tame animal chance",
+          "+0% Smoothing speed",
+          "+0% Animal gather speed",
+          "+0% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The GNK-series power droids, also known as gonk droids, were an Industrial Automaton knockoff of the successful EG-6 power droid.",
+      "defName": "GNK_Power",
+      "enabled": true,
+      "name": "GNK Power Droid",
+      "price": 167
+    },
+    {
+      "data": {
+        "stats": [
+          "+15.00 Mass",
+          "+0% Flammability",
+          "+$350 Market value",
+          "+0% Medical tend quality",
+          "+0% Medical surgery success chance",
+          "+30% General labor speed",
+          "+0.8 Melee dodge chance",
+          "+0% Toxic sensitivity",
+          "+3.70 Move speed",
+          "+1000% Immunity gain speed",
+          "+20.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "-200.0C Minimum comfortable temperature",
+          "+200.0C Maximum comfortable temperature",
+          "+99% Pain shock threshold",
+          "+0% Hunger rate multiplier",
+          "+25 Carrying capacity",
+          "+0% Eating speed",
+          "+0% Global work speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Research speed",
+          "+0% Plant work speed",
+          "+0% Global learning factor",
+          "+0% Hunting stealth",
+          "+0.00% Negotiation ability",
+          "+0.00% Trade price improvement",
+          "+0.00% Social impact",
+          "+0.0 Cooking speed",
+          "+0% Butchery speed",
+          "+0% Butchery efficiency",
+          "+0% Drug cooking speed",
+          "+0% Psychic sensitivity",
+          "+0.00% Train animal chance",
+          "+0.00% Tame animal chance",
+          "+0% Smoothing speed",
+          "+0% Animal gather speed",
+          "+0% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The MSE-6-series repair droid, sometimes referred to as the mouse droid, was a small, box-shaped, wheeled general purpose MSE-series droid often used for delivery and maintenance purposes.",
+      "defName": "MSE6_Repair",
+      "enabled": true,
+      "name": "MSE-6 Repair Droid",
+      "price": 583
+    },
+    {
+      "data": {
+        "stats": [
+          "+45.00 Mass",
+          "+0% Flammability",
+          "+$6000 Market value",
+          "+0% Medical tend quality",
+          "+0% Medical surgery success chance",
+          "+0% General labor speed",
+          "+0.9 Melee dodge chance",
+          "+0% Toxic sensitivity",
+          "+4.50 Move speed",
+          "+1000% Immunity gain speed",
+          "+60.0% Armor - Sharp",
+          "+25.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "-200.0C Minimum comfortable temperature",
+          "+200.0C Maximum comfortable temperature",
+          "+99% Pain shock threshold",
+          "+0% Hunger rate multiplier",
+          "+0 Carrying capacity",
+          "+0% Eating speed",
+          "+0% Global work speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Research speed",
+          "+0% Plant work speed",
+          "+0% Global learning factor",
+          "+50% Hunting stealth",
+          "+0.00% Negotiation ability",
+          "+0.00% Trade price improvement",
+          "+0.00% Social impact",
+          "+0.0 Cooking speed",
+          "+0% Butchery speed",
+          "+0% Butchery efficiency",
+          "+0% Drug cooking speed",
+          "+0% Psychic sensitivity",
+          "+0.00% Train animal chance",
+          "+0.00% Tame animal chance",
+          "+0% Smoothing speed",
+          "+0% Animal gather speed",
+          "+0% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The viper probe droid was a deep-space exploration and reconnaissance probe droid produced by Arakyd Industries.",
+      "defName": "Viper_Probe",
+      "enabled": true,
+      "name": "Viper Probe Droid",
+      "price": 10000
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+100% Flammability",
+          "+$2750 Market value",
+          "+4.60 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+60 Leather amount",
+          "+3 Honor value",
+          "+80 Carrying capacity",
+          "+90% Research speed",
+          "+90% Mining speed",
+          "+110.00% Social impact",
+          "+90% Plant work speed",
+          "+90% Construction speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Shaggy giants from an arboreal world, the tall and commanding Wookieee species is an impressive sight to even the most jaded spacer. \n        Despite their fearsome and savage countenance, Wookieees are intelligent, sophisticated, loyal and trusting. Loyalty and bravery are near-sacred tenets in Wookieee society. \n        When peaceful, Wookieees are tender and gentle. \n        Their tempers, however, are short; when angered, Wookieees can fly into a berserker rage and will not stop until the object of their distemper is sufficiently destroyed.",
+      "defName": "StarWarsRaces_Wookiee",
+      "enabled": true,
+      "name": "Wookiee",
+      "price": 4583
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Togrutas were a carnivorous humanoid species from the planet Shili. The species exhibited head-tails which were similar to those of Twi'leks. Unlike Twi'leks, a Togurta's lekku ran parallel to the head as opposed to behind, making it appear as though they were wearing a headdress. Togruta were also distinguished by montrals, large hollow horn-like projections from the top of their heads, that gave the species a form of passive echolocation. In order to protect themselves from dangerous predators, and to hunt their own prey, Togruta banded together in tribes and relied on their natural pigmentation to disrupt and confuse slow-witted beasts. Togruta worked well in large groups, and individualism was seen as abnormal within their culture, although it was also a necessary quality in leaders.",
+      "defName": "StarWarsRaces_Togruta",
+      "enabled": true,
+      "name": "Togruta",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Rodians are a reptilian species with antennae, green and scaled skin, large round pupil-less eyes, and snouts from the planet Rodia.",
+      "defName": "StarWarsRaces_Rodian",
+      "enabled": true,
+      "name": "Rodian",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Ewoks are sentient furred bipeds native to the moon of Endor.",
+      "defName": "StarWarsRaces_Ewok",
+      "enabled": true,
+      "name": "Ewok",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Twi'leks are tall, thin humanoids with skin pigment that spans a rainbow of colors.\n      Their most distinctive feature is a pair of prehensile tentacles that grow from the base of their skulls.\n      These Lekku are vital to the health of the Twi'lek, which is unfortunate because they prevent the Twi'lek from wearing most forms of head protection.\n      Some have theorized that this obvious weakness is why the Twi'lek people have been so heavily targetted by slavers.",
+      "defName": "StarWarsRaces_Twilek",
+      "enabled": true,
+      "name": "Twi'lek",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+75.00 Mass",
+          "+10% Flammability",
+          "+$1760 Market value",
+          "+3.10 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Mental break threshold",
+          "-100% Psychic sensitivity",
+          "+90.0% Armor - Blunt",
+          "+100.0% Armor - Sharp",
+          "+50.0% Armor - Heat",
+          "+110% Global work speed",
+          "+200% Rest rate multiplier"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "\"The LOM-series had a flaw that allowed the personality software of a droid to be corrupted. Many LOM-series droids became enforcers in the galaxy's Outer Rim Territories.\"",
+      "defName": "SW_4LOM_DroidPawn",
+      "enabled": true,
+      "name": "LOM-series Droid",
+      "price": 2933
+    },
+    {
+      "data": {
+        "stats": [
+          "+35.00 Mass",
+          "+10% Flammability",
+          "+$1500 Market value",
+          "+4.50 Move speed",
+          "+5.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+20 Leather amount",
+          "-30% Mental break threshold",
+          "+100% Psychic sensitivity",
+          "+30.0% Armor - Blunt",
+          "+50.0% Armor - Sharp",
+          "+20.0% Armor - Heat",
+          "+110% Global work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "\"Gand were a stocky, three-fingered, two-toed insectoid sentient species with brown skin whose heads featured a pair of large, silver compound eyes.\"",
+      "defName": "SW_Gand_Pawn",
+      "enabled": true,
+      "name": "Gand Species",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+35.00 Mass",
+          "+10% Flammability",
+          "+$4500 Market value",
+          "+4.50 Move speed",
+          "+5.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+20 Leather amount",
+          "-30% Mental break threshold",
+          "+100% Psychic sensitivity",
+          "+30.0% Armor - Blunt",
+          "+50.0% Armor - Sharp",
+          "+20.0% Armor - Heat",
+          "+110% Global work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "\"Massive slug-like species who had large mouths and stubby arms. They had three lungs. They were tough and muscular with thick\"",
+      "defName": "SW_Hutts_Pawn",
+      "enabled": true,
+      "name": "Hutts Species",
+      "price": 7500
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+10% Flammability",
+          "+$3000 Market value",
+          "+4.70 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Mental break threshold",
+          "-100% Psychic sensitivity",
+          "+90.0% Armor - Blunt",
+          "+100.0% Armor - Sharp",
+          "+50.0% Armor - Heat",
+          "+110% Global work speed",
+          "+200% Rest rate multiplier"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "\"The IG-series was a line of battle and assassin droids produced by Holowan Laboratories and its subsidiary.\"",
+      "defName": "SW_IG88_DroidPawn",
+      "enabled": true,
+      "name": "IG-88 Assassin Droid",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+35.00 Mass",
+          "+10% Flammability",
+          "+$1500 Market value",
+          "+4.50 Move speed",
+          "+5.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+20 Leather amount",
+          "-30% Mental break threshold",
+          "+100% Psychic sensitivity",
+          "+30.0% Armor - Blunt",
+          "+50.0% Armor - Sharp",
+          "+20.0% Armor - Heat",
+          "+110% Global work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "\"Trandoshans, also called T'doshok, were large, bipedal reptilian sentient humanoids from the planet Trandosha, and were renowned as great hunters.\"",
+      "defName": "Pawn_StarWars_Trandosha",
+      "enabled": true,
+      "name": "Trandosha",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A blue-skinned, red-eyed, near human sentient species native to the planet Csilla in the Unknown Regions.",
+      "defName": "O21_OR_Chiss",
+      "enabled": true,
+      "name": "Chiss",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A subspecies of Zabrak, native to the planet Dathomir. The males have a similar appearance to Iridonians with much more vibrant skin tones while the females are practically human apart from their pale white skin. Both cover themselves in tattoos of varying kinds representing their tribal heritage.",
+      "defName": "O21_OR_Dathomirian",
+      "enabled": true,
+      "name": "Dathomirian",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "-40.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A tall hairy humanoid species native to the planet Kashyyyk, notable hunters and exceptionally strong warriors. Their fur makes them comfortable in extreme temperatures without any protective clothing.",
+      "defName": "O21_OR_Wookiee",
+      "enabled": true,
+      "name": "wookiee",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A humanoid aquatic species from the planet Mon Cala, they share their homeworld with the Quarren.",
+      "defName": "O21_OR_MonCalamari",
+      "enabled": true,
+      "name": "Mon Calamari",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A humanoid aquatic species from the planet Mon Cala, they share their homeworld with the Mon Calamari",
+      "defName": "O21_OR_Quarren",
+      "enabled": true,
+      "name": "Quarren",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A barely sentient amphibious species native to the planet Naboo. Unluckily for the rest of the Galaxy, the ability to speak does not make one intelligent.",
+      "defName": "O21_OR_Gungan",
+      "enabled": true,
+      "name": "gungan",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A species of sentient humanoids native to the planet Oba Diah, distinguised by their unsettlingly large heads and undersized faces.",
+      "defName": "O21_OR_Pyke",
+      "enabled": true,
+      "name": "Pyke",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.80 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "An ancient race that once ruled the Infinite Empire, creating such wonders of the galaxy as the Star Forge.",
+      "defName": "O21_OR_Rakata",
+      "enabled": true,
+      "name": "rakata",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Jawas were a sentient species of meter-tall furry humanoids native to the Outer Rim desert world of Tatooine. Jawas who migrated from Tatooine were referred to as Offworld Jawas.",
+      "defName": "O21_OR_Jawa",
+      "enabled": true,
+      "name": "Jawa",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Tusken Raiders, less formally referred to as Sand People or simply as Tuskens, were a culture of nomadic sentients indigenous to the desert planet Tatooine, where they were often hostile to local settlers. Tusken children were called Uli-ah. The name of Tusken Raiders was acquired much later, due to a period of concerted attacks on the settlement called Fort Tusken around eight decades before 19 BBY.",
+      "defName": "O21_OR_Tusken",
+      "enabled": true,
+      "name": "Tusken",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+10% Flammability",
+          "-250.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+10000% Immunity gain speed",
+          "+1000% Pain shock threshold",
+          "+$2000 Market value",
+          "+5.00 Move speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "HK-47 was a Hunter-Killer assassin droid and Jedi hunter constructed by the Dark Lord of the Sith, Darth Revan, shortly after the end of the Mandalorian Wars in 3960 BBY. In the wake of widespread destruction caused by the Mass Shadow Generator, a superweapon used during the final battle of that conflict, Revan was inspired to seek more subtle methods of defeating his enemies. HK-47 was sent throughout the galaxy on his missions and successfully assassinated countless targets whom Revan had deemed threats to galactic stability and peace. However, HK-47 was badly crippled and captured on a mission in Mandalorian space shortly before Revan himself was captured by the Jedi Order.",
+      "defName": "O21_OR_HK47Droid",
+      "enabled": true,
+      "name": "HK-47 Assassin Droid",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+10% Flammability",
+          "-250.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+10000% Immunity gain speed",
+          "+1000% Pain shock threshold",
+          "+$2000 Market value",
+          "+5.00 Move speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The HK-50 series assassin droid was a HK series assassin/protocol droid model designed by Revan after the Mandalorian Wars. Like their predecessors, these droids possessed incredible linguistic skills and highly sadistic tendencies. The primary function of the HK-50 droids, as they stated it, was to \"facilitate communications and terminate hostilities.\" In accordance with the usual perceptions of HK model assassin droid, the best way to terminate hostilities was to kill everything present. HK-50 units were identical in appearance to HK-47, with the primary exception being that they are \"a rather poor shade of durasteel\" in color instead of HK-47's rusty red.",
+      "defName": "O21_OR_HK50Droid",
+      "enabled": true,
+      "name": "HK-50 Assassin Droid",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+10% Flammability",
+          "-250.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+10000% Immunity gain speed",
+          "+1000% Pain shock threshold",
+          "+$2000 Market value",
+          "+5.00 Move speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The HK-51 series assassin droid was a model of Hunter-Killer series assassin droid that was manufactured by the Czerka Corporation shortly before the end of the Great Galactic War.",
+      "defName": "O21_OR_HK51Droid",
+      "enabled": true,
+      "name": "HK-51 Assassin Droid",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
+      "defName": "O21_OR_CloneTrooper",
+      "enabled": true,
+      "name": "human",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+10% Flammability",
+          "-250.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+10000% Immunity gain speed",
+          "+1000% Pain shock threshold",
+          "+$2000 Market value",
+          "+4.30 Move speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A droid capable of quick battlefield decisions, they aren't very useful for anything else but their intelligence is highly valued.",
+      "defName": "O21_OR_TacticalDroid",
+      "enabled": true,
+      "name": "T-Series Tactical Droid",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+10% Flammability",
+          "-250.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+10000% Immunity gain speed",
+          "+1000% Pain shock threshold",
+          "+$1500 Market value",
+          "+4.80 Move speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A standard model of battle droid used widely as a baseline military model. They are cheap and easy to produce compared to other models so they are often also used as a labour force outside of combat.",
+      "defName": "O21_OR_BattleDroid",
+      "enabled": true,
+      "name": "B1 Battle Droid",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+10% Flammability",
+          "-250.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+10000% Immunity gain speed",
+          "+1000% Pain shock threshold",
+          "+$2000 Market value",
+          "+5.40 Move speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A stealthy model of battle droid capable of much more flexible movement, even imitating humanoids to a degree along with a high melee proficiency which the standard models lack almost entirely. They are much more difficult to produce.",
+      "defName": "O21_OR_CommandoDroid",
+      "enabled": true,
+      "name": "BX Commando Droid",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+10% Flammability",
+          "-250.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+10000% Immunity gain speed",
+          "+1000% Pain shock threshold",
+          "+$1000 Market value",
+          "+3.00 Move speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "An advanced form of battle droid designed with heavy weapons and a shield generator in mind. [Info: They cannot roll to move quickly, this is a planned feature but is low priority currently.]",
+      "defName": "O21_OR_DestroyerDroid",
+      "enabled": true,
+      "name": "destroyer droid",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+10% Flammability",
+          "-250.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+10000% Immunity gain speed",
+          "+1000% Pain shock threshold",
+          "+$1000 Market value",
+          "+5.40 Move speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "An advanced assassin and bodyguard droid model, proficient in melee combat but not so much with ranged.",
+      "defName": "O21_OR_MagnaGuardDroid",
+      "enabled": true,
+      "name": "MagnaGuard Droid",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+10% Flammability",
+          "-250.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+10000% Immunity gain speed",
+          "+1000% Pain shock threshold",
+          "+$1000 Market value",
+          "+4.00 Move speed",
+          "+200% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "An advanced battle droid model that is larger, tougher and generally better than the standard Battle Droid. Their advantages come at the cost of significantly more materials.",
+      "defName": "O21_OR_SuperBattleDroid",
+      "enabled": true,
+      "name": "B2 Super Battle Droid",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+10% Flammability",
+          "-250.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+10000% Immunity gain speed",
+          "+1000% Pain shock threshold",
+          "+$750 Market value",
+          "+4.50 Move speed",
+          "+80% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A superior model of tactical droid, capable of much more complex calculations than the standard series.",
+      "defName": "O21_OR_SuperTacticalDroid",
+      "enabled": true,
+      "name": "Super Tactical Droid",
+      "price": 1250
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+10% Flammability",
+          "-250.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+10000% Immunity gain speed",
+          "+1000% Pain shock threshold",
+          "+$1500 Market value",
+          "+4.80 Move speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "TODO",
+      "defName": "O21_OR_KXSecurityDroid",
+      "enabled": true,
+      "name": "KX Security Droid",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A sentient species native to the planet Abednedo in the Colonies region of the Galaxy.",
+      "defName": "O21_OR_Abednedo",
+      "enabled": true,
+      "name": "Abednedo",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A sentient humanoid species from the planet Ando, they vary genetically in that some of them have 2 eyes and others have 4 eyes.",
+      "defName": "O21_OR_Aqualish",
+      "enabled": true,
+      "name": "Aqualish",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A sentient humanoid species native to the planet Bith, to outside species they are hard to tell apart being so visually similar to one another.",
+      "defName": "O21_OR_Bith",
+      "enabled": true,
+      "name": "Bith",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A species of sentient humanoids from the planet Cerea, they are physically very similar to humans other than their enlarged conical head containing a binary brain.",
+      "defName": "O21_OR_Cerean",
+      "enabled": true,
+      "name": "Cerean",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+42.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+200.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A sentient humanoid species from the planet Devaron. They have a strong sexual dimorphism where the females look like they could be an entirely different species, lacking the horns and vivid skin colours of the males, instead having vestigial bumbs where horns would be. Their skin is practically immune to fire, and they can tolerate extremely high temperatures.",
+      "defName": "O21_OR_Devaronian",
+      "enabled": true,
+      "name": "Devaronian",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A humanoid sentient species native to the planet Duro, they share a distant ancestor with the Neimoidians.",
+      "defName": "O21_OR_Duros",
+      "enabled": true,
+      "name": "Duros",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A horned sentient species of humanoid from the moon Iktotch.",
+      "defName": "O21_OR_Iktotchi",
+      "enabled": true,
+      "name": "Iktotchi",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Iridonians are a race of Zabrak, horned sentient humanoids. They are native to the planet Iridonia.",
+      "defName": "O21_OR_Iridonian",
+      "enabled": true,
+      "name": "Iridonian",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A sentient species from the planet Ithor. They have a unique set of twin mouths on the opposite sides of their necks. Their throat structure prevented them speaking Galactic Basic without assisstance from devices that can translate as they speak. Another quirk of their unique throat is that they can expell air violently in a rough direction, causing a concussive wave capable of damaging others.",
+      "defName": "O21_OR_Ithorian",
+      "enabled": true,
+      "name": "Ithorian",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A near-human species native to the planet Mirial. They typically have green skin and geometric tattoos on their faces symbolizing personal achievement.",
+      "defName": "O21_OR_Mirialan",
+      "enabled": true,
+      "name": "Mirialan",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A humanoid species native to the planet of Neimoidia, they share a common ancestor with the Duros species.",
+      "defName": "O21_OR_Neimoidian",
+      "enabled": true,
+      "name": "Neimoidian",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A humanoid sentient species native to the planet Kintan. There are three subspecies varying mostly in colouring, with small physical differences.",
+      "defName": "O21_OR_Nikto",
+      "enabled": true,
+      "name": "Nikto",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A sentient species of aquatic beings native to the planet Manaan, they are most comfortable underwater but are capable of surviving on land.",
+      "defName": "O21_OR_Selkath",
+      "enabled": true,
+      "name": "Selkath",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of red-skinned humanoids native to the planet Korriban before resettling on Ziost. They have distinct bone spurs and facial tentacles, and are one of few species naturally drawn to the dark side of the Force.",
+      "defName": "O21_OR_Sith",
+      "enabled": true,
+      "name": "Sith",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A sentient humanoid species, distinct for their large montrals head tails and large variety of skin pigmentation. They are native to the planet Shili in the Expansion Region of the Galaxy.",
+      "defName": "O21_OR_Togruta",
+      "enabled": true,
+      "name": "Togruta",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A large bipedal reptilian sentient humanoid species from the planet Trandosha. They were commonly known as great hunters and famous for their ability to regenerate limbs and heal effectively.",
+      "defName": "O21_OR_Trandoshan",
+      "enabled": true,
+      "name": "Trandoshan",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A near-human species distinct in their pair of long appendages protruding from their heads called lekku. They are native to the planet Ryloth in the Outer Rim Territories. Females of the species were often exported as slaves around the Galaxy.",
+      "defName": "O21_OR_Twilek",
+      "enabled": true,
+      "name": "Twi'lek",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+30.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+4.50 Move speed",
+          "+8.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+100% Psychic sensitivity",
+          "+100% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Jawas are a sentient species of meter-tall humanoids native to the Outer Rim desert world of Tatooine.",
+      "defName": "Alien_Jawa",
+      "enabled": true,
+      "name": "Jawa",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+4.50 Move speed",
+          "+8.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+100% Psychic sensitivity",
+          "+100% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Tusken Raiders are a culture of nomadic, primitive sentients indigenous to Tatooine, where they were often hostile to local settlers.",
+      "defName": "Alien_TuskenRaider",
+      "enabled": true,
+      "name": "Tusken Raider",
+      "price": 3333
     }
   ]
 }

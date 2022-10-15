@@ -6,62 +6,50 @@
     "version": null
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Inglix",
     "name": "Apparel Tainted Only When Corpse Rots",
     "steamId": null,
     "version": null
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "Defensive Positions",
+    "author": "Argaros",
+    "name": "Better Star Wars Music",
     "steamId": null,
     "version": null
   },
   {
-    "author": "tikubonn",
-    "name": "DontBlockDoor",
+    "author": "Ykara",
+    "name": "Expanded Prosthetics and Organ Engineering",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Arekan",
-    "name": "Enhanced Combat Sounds",
+    "author": "Roolo",
+    "name": "Giddy-up! Core",
     "steamId": null,
     "version": null
   },
   {
-    "author": "DarkFlame7",
-    "name": "Factorio Music",
+    "author": "Roolo",
+    "name": "Giddy-up! Caravan",
     "steamId": null,
     "version": null
   },
   {
-    "author": "OkraDonkey",
-    "name": "Infinite Torches",
+    "author": "Roolo",
+    "name": "Giddy-up! Ride and Roll",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Canguro",
-    "name": "Mechanoid better loot",
+    "author": "Haplo",
+    "name": "Misc. Robots",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Sinnamon",
-    "name": "More Ritual Rewards",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Bishop",
-    "name": "Music on the Rim",
+    "author": "Antaios",
+    "name": "Mod Medicine Patch",
     "steamId": null,
     "version": null
   },
@@ -72,8 +60,8 @@
     "version": null
   },
   {
-    "author": "Rizno",
-    "name": "RimFTL (Music Pack)",
+    "author": "FantasyFan",
+    "name": "Outer Rim - Tatooine (Continued)",
     "steamId": null,
     "version": null
   },
@@ -84,74 +72,176 @@
     "version": null
   },
   {
-    "author": "Roolo and Updated by Ogliss",
-    "name": "RunAndGun",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Kentington and Thain",
     "name": "Save Our Ship 2",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Roolo",
-    "name": "Search and Destroy",
+    "author": "FantasyFan",
+    "name": "Save Our Ship 2 - Star Wars Ships",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Abby Sciuto",
-    "name": "Sun Lamp Power",
+    "author": "FantasyFan",
+    "name": "Star Wars - Droids Core (Continued)",
     "steamId": null,
     "version": null
   },
   {
-    "author": "SENPAI!!",
-    "name": "TARKOV Full Voice-Acted Radio Chatter",
+    "author": "FantasyFan",
+    "name": "Star Wars - Astromech Droids (Continued)",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Sam",
-    "name": "Tilled Soil",
+    "author": "Xen and Jecrell",
+    "name": "Star Wars - Factions (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Leongotto and  Lady Elizabeth",
+    "name": "Star Wars - First Order Faction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FantasyFan",
+    "name": "Star Wars - Protocol Droids (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FantasyFan",
+    "name": "Star Wars - Support Droids (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] StarWars - Phase I Clone Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lady Elizabeth and JangoD'soul",
+    "name": "Star Wars Delta Squad",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lumi",
+    "name": "Star Wars Lights",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Beasstmann",
+    "name": "StarWars Animal Collection",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Geoppetto Hosseltoff",
+    "name": "Star Wars Pack Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lady Elizabeth and JangoD'soul",
+    "name": "Star Wars Senate Guard",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lumi",
+    "name": "Star Wars Slave Bikini Outfit",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "StarWars - 212th Airborne Trooper",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoDsoul",
+    "name": "StarWars - 4-LOM Droid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "StarWars - Dengar Armor Set",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "StarWars - Gand Species",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "StarWars - Hutts Species",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "StarWars - IG-88 Droid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "StarWars - Purge Trooper",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "StarWars - Storm Commando",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "StarWars - Trandosha Species",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "StarWars Fordo-Neyo-Assassin",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lumi",
+    "name": "StarWars WallsN'Floors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "StarWars-Keller-Airborne-Standard",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Trade Ships Drop Spot",
     "steamId": null,
     "version": null
   },
   {
     "author": "Hob Took",
     "name": "Trade UI Revised",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kikohi and Oskar Potocki",
-    "name": "Vanilla Base Generation Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Kikohi",
-    "name": "Vanilla Expanded - Ideology Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Kikohi",
-    "name": "Vanilla Expanded - Royalty Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ouroboros226 and  Taranchuk",
-    "name": "Voice-Acted Radio Chatter",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Better Ancient Complex Loot",
     "steamId": null,
     "version": null
   },
@@ -168,8 +258,44 @@
     "version": null
   },
   {
-    "author": "いのしし_3",
-    "name": "[I3] Combat Sounds (I3CS)",
+    "author": "JangoD'soul",
+    "name": "[JDS] Star Wars BlasTech Industries",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] The Forge - Anvil",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] Star Wars Jango and Boba Fett",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] Star Wars Mandalorian Custom Armor Set",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] Star Wars Old Sith Trooper Armor Set",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] Star Wars Phase II Clone Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] Star Wars The Mando and Paz Vizla Armor Set",
     "steamId": null,
     "version": null
   }
