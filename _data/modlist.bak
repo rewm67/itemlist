@@ -6,6 +6,12 @@
     "version": null
   },
   {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Inglix",
     "name": "Apparel Tainted Only When Corpse Rots",
     "steamId": null,
@@ -14,6 +20,18 @@
   {
     "author": "Argaros",
     "name": "Better Star Wars Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "tikubonn",
+    "name": "DontBlockDoor",
     "steamId": null,
     "version": null
   },
@@ -38,6 +56,12 @@
   {
     "author": "Roolo",
     "name": "Giddy-up! Ride and Roll",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OkraDonkey",
+    "name": "Infinite Torches",
     "steamId": null,
     "version": null
   },
@@ -72,6 +96,12 @@
     "version": null
   },
   {
+    "author": "Roolo and Updated by Ogliss",
+    "name": "RunAndGun",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Kentington and Thain",
     "name": "Save Our Ship 2",
     "steamId": null,
@@ -80,6 +110,12 @@
   {
     "author": "FantasyFan",
     "name": "Save Our Ship 2 - Star Wars Ships",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy",
     "steamId": null,
     "version": null
   },
@@ -234,6 +270,12 @@
     "version": null
   },
   {
+    "author": "Sam",
+    "name": "Tilled Soil",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Smash Phil",
     "name": "Trade Ships Drop Spot",
     "steamId": null,
@@ -242,12 +284,6 @@
   {
     "author": "Hob Took",
     "name": "Trade UI Revised",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Better Ancient Complex Loot",
     "steamId": null,
     "version": null
   },
